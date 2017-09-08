@@ -16,6 +16,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 ### Other applications
 
 ## Tutorials and workflows
+- [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - Scientific Python Cheat Sheet.
 
 ## Web portals and apps
 
@@ -26,3 +27,4 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [GEN220 2015](https://github.com/hyphaltip/GEN220_2015) - Computational Analysis of High Throughput Biological Data (2015).
 - [programming-intro](https://github.com/biodataprog/programming-intro) - Computational Analysis of High Throughput Biological Data (2017).
 - [galaxy-intro](https://github.com/galaxycam/galaxy-intro) - Introduction to Galaxy: data manipulation and visualisation course (2017).
+- [BPBR16](https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers) - Bioinformatics using Python for Biomedical Researchers (2016)
