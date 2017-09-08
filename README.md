@@ -20,3 +20,6 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 ## Web portals and apps
 
 ## Educational resources
+- [CSHL NGS](https://github.com/hyphaltip/CSHL_NGSNGS) - DNA analysis for the CSHL Programming for Biology course (2012-2014).
+- [GEN220_2015](https://github.com/hyphaltip/GEN220_2015) - Computational Analysis of High Throughput Biological Data (2015).
+- [programming-intro](https://github.com/biodataprog/programming-intro) - Computational Analysis of High Throughput Biological Data (2017).
