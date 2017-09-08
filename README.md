@@ -25,3 +25,4 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [CSHL NGS](https://github.com/hyphaltip/CSHL_NGSNGS) - DNA analysis for the CSHL Programming for Biology course (2012-2014).
 - [GEN220 2015](https://github.com/hyphaltip/GEN220_2015) - Computational Analysis of High Throughput Biological Data (2015).
 - [programming-intro](https://github.com/biodataprog/programming-intro) - Computational Analysis of High Throughput Biological Data (2017).
+- [galaxy-intro](https://github.com/galaxycam/galaxy-intro) - Introduction to Galaxy: data manipulation and visualisation course (2017).
