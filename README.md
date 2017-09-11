@@ -10,8 +10,14 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 ### GWAS
 
 - [treeWAS](https://github.com/caitiecollins/treeWAS) - [R] - A Phylogenetic Tree-Based Tool for Genome-Wide Association Studies in Microbes.
+- [Scoary](https://github.com/AdmiralenOla/Scoary) - [Python] - Microbial pan-genome wide association studies.
+- [Roary](https://github.com/sanger-pathogens/Roary) - [Perl] - Rapid large-scale prokaryote pan genome analysis.
 
 ### Bacterial population genomics
+
+- [bac-genomics-scripts](https://github.com/aleimba/bac-genomics-scripts) - [Perl] - Collection of scripts for bacterial genomics.
+- [PuppetMaster](https://github.com/AdmiralenOla/PuppetMaster) - [Python] - Variable sites extractor.
+- [snp-sites](https://github.com/sanger-pathogens/snp-sites) - [C] - Rapid efficient extractor of SNPs from multi-FASTA alignments.
 
 ### Other applications
 
@@ -27,4 +33,4 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [GEN220 2015](https://github.com/hyphaltip/GEN220_2015) - Computational Analysis of High Throughput Biological Data (2015).
 - [programming-intro](https://github.com/biodataprog/programming-intro) - Computational Analysis of High Throughput Biological Data (2017).
 - [galaxy-intro](https://github.com/galaxycam/galaxy-intro) - Introduction to Galaxy: data manipulation and visualisation course (2017).
-- [BPBR16](https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers) - Bioinformatics using Python for Biomedical Researchers (2016)
+- [BPBR16](https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers) - Bioinformatics using Python for Biomedical Researchers (2016).
