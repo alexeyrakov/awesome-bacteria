@@ -1,6 +1,6 @@
 # awesome-bacteria
 
-List of software packages (and the people developing these methods) for bacterial GWAS, population bacterial genomics etc.
+List of software packages (and the people developing these methods) for bacterial GWAS, bacterial population genomics etc.
 <br /> 
 Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob/master/README.md)
 <br />
