@@ -34,3 +34,8 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [programming-intro](https://github.com/biodataprog/programming-intro) - Computational Analysis of High Throughput Biological Data (2017).
 - [galaxy-intro](https://github.com/galaxycam/galaxy-intro) - Introduction to Galaxy: data manipulation and visualisation course (2017).
 - [BPBR16](https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers) - Bioinformatics using Python for Biomedical Researchers (2016).
+- [2017-python-programming](https://github.com/EEOB-BioData/2017-python-programming) - Programming with Python (2017).
+- [BCB546X-Spring2017](https://github.com/EEOB-BioData/BCB546X-Spring2017) - Computational Skills for Biological Data (Spring 2017).
+- [BCB546X-Fall2017](https://github.com/EEOB-BioData/BCB546X-Fall2017) - Computational Skills for Biological Data (Fall 2017).
+- [R-Data-Skills](https://github.com/EEOB-BioData/R-Data-Skills) - R for Reproducible Scientific Analysis (2016).
+- [Molecular Phylogenetics](https://sites.google.com/site/eeob563/) - Molecular Phylogenetics Course (2017).
