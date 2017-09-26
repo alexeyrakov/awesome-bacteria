@@ -25,6 +25,8 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - Scientific Python Cheat Sheet.
 
 ## Web portals and apps
+- [Sofware Carpentry](https://software-carpentry.org/)
+- [Data Carpentry](http://www.datacarpentry.org/)
 
 ## Educational resources
 - [CSHL Programming for Biology 2016](http://programmingforbiology.org) - CSHL Programming for Biology course official site (2016).
