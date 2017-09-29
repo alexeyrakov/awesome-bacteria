@@ -10,6 +10,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 ### GWAS
 
 - [treeWAS](https://github.com/caitiecollins/treeWAS) - [R] - A Phylogenetic Tree-Based Tool for Genome-Wide Association Studies in Microbes.
+- [SEER](https://github.com/johnlees/seer) - [C++] - Sequence element (kmer) enrichment analysis.
 - [Scoary](https://github.com/AdmiralenOla/Scoary) - [Python] - Microbial pan-genome wide association studies.
 - [Roary](https://github.com/sanger-pathogens/Roary) - [Perl] - Rapid large-scale prokaryote pan genome analysis.
 
