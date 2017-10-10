@@ -43,7 +43,9 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [experimental-design](https://github.com/bioinformatics-core-shared-training/experimental-design) - Experimental Design.
 - [winter-school2016](https://github.com/bioinformatics-core-shared-training/winter-school2016) - Essential Data Analysis Skills for Biologists (2016).
 - [Molecular Phylogenetics](https://sites.google.com/site/eeob563/) - Molecular Phylogenetics Course (2017).
-- [functional-genomics-workshop-orange](https://github.com/biolab/functional-genomics-workshop-orange) - Data Mining w/o Programming Workshop (2014). 
+- [functional-genomics-workshop-orange](https://github.com/biolab/functional-genomics-workshop-orange) - Data Mining w/o Programming Workshop (2014).
+- [Data Analysis for the Life Sciences](https://github.com/genomicsclass/labs) - Data Analysis for the Life Sciences (2105): Biomedical Data Science, Introduction to Bioconductor: Annotation and analysis, High-performance computing for reproducible genomics with Bioconductor.
+- [Microbial Informatics 2014 Labs](https://github.com/apetkau/microbial-informatics-2014) - Microbial Informatics 2014 Labs.
 
 ### Shell
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices (2017).
