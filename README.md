@@ -44,14 +44,16 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [winter-school2016](https://github.com/bioinformatics-core-shared-training/winter-school2016) - Essential Data Analysis Skills for Biologists (2016).
 - [Molecular Phylogenetics](https://sites.google.com/site/eeob563/) - Molecular Phylogenetics Course (2017).
 - [functional-genomics-workshop-orange](https://github.com/biolab/functional-genomics-workshop-orange) - Data Mining w/o Programming Workshop (2014).
-- [Data Analysis for the Life Sciences](https://github.com/genomicsclass/labs) - Data Analysis for the Life Sciences (2105): Biomedical Data Science, Introduction to Bioconductor: Annotation and analysis, High-performance computing for reproducible genomics with Bioconductor.
-- [Microbial Informatics 2014 Labs](https://github.com/apetkau/microbial-informatics-2014) - Microbial Informatics 2014 Labs.
+- [Data Analysis for the Life Sciences](https://github.com/genomicsclass/labs) - Data Analysis for the Life Sciences (2015): Biomedical Data Science, Introduction to Bioconductor: Annotation and analysis, High-performance computing for reproducible genomics with Bioconductor.
+- [microbial-informatics-2014](https://github.com/apetkau/microbial-informatics-2014) - Microbial Informatics 2014 Labs.
 
 ### Shell
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices (2017).
 - [shell-extras](https://github.com/swcarpentry/shell-extras) - Extra Unix Shell Material (2017).
 
 ### Python
+- [2015-python-intro](https://github.com/ngs-docs/2015-python-intro) - An Introduction to Python (2015).
+- [2016-adv-begin-python](https://github.com/ngs-docs/2016-adv-begin-python) - Advanced Beginner Python (2016).
 - [python-beginners](https://github.com/OpenTechSchool/python-beginners) - Introduction to programming with Python (2015) (incl. Russian).
 - [python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder) - Plotting and Programming in Python (2017).
 - [python-data-intro](https://github.com/OpenTechSchool/python-data-intro) - Introduction to Data Processing with Python (2015).
