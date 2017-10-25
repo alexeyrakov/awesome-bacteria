@@ -77,6 +77,15 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 
 ### Bioconductor
 - [ngs-in-bioc](https://github.com/bioinformatics-core-shared-training/ngs-in-bioc) - A course on Analysing NGS data using Bioconductor (2015).
+- [BiocIntro](https://github.com/Bioconductor/BiocIntro) - Bioconductor introduction (2017).
+- [BioC2016Introduction](https://github.com/Bioconductor/BioC2016Introduction) - Bioconductor introduction (2016).
+- [LearnBioconductor](https://github.com/Bioconductor/LearnBioconductor) - Learning R / Bioconductor for Sequence Analysis (2015).
+- [UseBioconductor](https://github.com/Bioconductor/UseBioconductor) - Use R / Bioconductor for Sequence Analysis (2015).
+- [useR2015](https://github.com/Bioconductor/useR2015) - Course material for useR 2015 workshop -- Bioconductor for High Throughput Sequence Analysis (2015).
+- [BioC2015Introduction](https://github.com/Bioconductor/BioC2015Introduction) - Introduction to R and Bioconductor (2015).
+- [BiocUruguay2015](https://github.com/Bioconductor/BiocUruguay2015) - R Bio: Untangling Genomes (2015).
+- [BiocEMBO2015](https://github.com/Bioconductor/BiocEMBO2015) - EMBO Practical Course: Analysis of High-Throughput Sequencing Data (2015).
+- [CSAMA2015](https://github.com/Bioconductor/CSAMA2015) - CSAMA 2015: Statistics and Computing in Genome Data Science (2015).
 
 ### Git
 - [git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git (2017).
