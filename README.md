@@ -52,20 +52,22 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 
 ### Shell
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices (2017).
-- [shell-extras](https://github.com/swcarpentry/shell-extras) - Extra Unix Shell Material (2017).
+- [shell-extras](https://github.com/swcarpentry/shell-extras) - Software Carpentry Extra Unix Shell Material (2017).
 
 ### Python
 - [2015-python-intro](https://github.com/ngs-docs/2015-python-intro) - An Introduction to Python (2015).
 - [2016-adv-begin-python](https://github.com/ngs-docs/2016-adv-begin-python) - Advanced Beginner Python (2016).
 - [python-beginners](https://github.com/OpenTechSchool/python-beginners) - Introduction to programming with Python (2015) (incl. Russian).
-- [python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder) - Plotting and Programming in Python (2017).
+- [python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder) - Software Carpentry Plotting and Programming in Python (2017).
+- [python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation/) = Software Carpentry introduction to Python for novices using inflammation data (2017).
 - [python-data-intro](https://github.com/OpenTechSchool/python-data-intro) - Introduction to Data Processing with Python (2015).
 - [BPBR16](https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers) - Bioinformatics using Python for Biomedical Researchers (2016).
 - [2017-python-programming](https://github.com/EEOB-BioData/2017-python-programming) - Programming with Python (2017).
 - [Py4Bio](https://github.com/Serulab/Py4Bio) - Public data for the book Python for Bioinformatics.
 
 ### R & RStudio
-- [r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis (2017).
+- [r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - Software Carpentry R for Reproducible Scientific Analysis (2017).
+- [r-novice-inflammation](https://github.com/swcarpentry/r-novice-inflammation) - Software Carpentry introduction to R for novices using inflammation data (2017).
 - [r-intro](https://github.com/cambiotraining/r-intro) - Cambridge Basic R Course (2017).
 - [r-intermediate](https://github.com/bioinformatics-core-shared-training/r-intermediate) - Data Manipulation and Visualisation using R (Intermediate R Course).
 - [R-Data-Skills](https://github.com/EEOB-BioData/R-Data-Skills) - R for Reproducible Scientific Analysis (2016).
@@ -88,7 +90,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [CSAMA2015](https://github.com/Bioconductor/CSAMA2015) - CSAMA 2015: Statistics and Computing in Genome Data Science (2015).
 
 ### Git
-- [git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git (2017).
+- [git-novice](https://github.com/swcarpentry/git-novice) - Software Carpentry Version Control with Git (2017).
 
 ### Docker
 - [docker-4-bioinformatics](https://github.com/bioinformatics-core-shared-training/docker-4-bioinformatics) - Introduction to Docker for Bioinformatics (2017).
