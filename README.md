@@ -24,6 +24,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [snp-sites](https://github.com/sanger-pathogens/snp-sites) - [C] - Rapid efficient extractor of SNPs from multi-FASTA alignments.
 
 ### Other applications
+- [poppr](https://github.com/grunwaldlab/poppr) - [R] - An R package for genetic analysis of populations with mixed (clonal/sexual) reproduction.
 
 ## Tutorials and workflows
 - [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - Scientific Python Cheat Sheet.
