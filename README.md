@@ -55,6 +55,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 ### Shell
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices (2017).
 - [shell-extras](https://github.com/swcarpentry/shell-extras) - Software Carpentry Extra Unix Shell Material (2017).
+- [shell-genomics](https://github.com/datacarpentry/shell-genomics) - Data Carpentry Shell Genomics lessons (2017).
 
 ### Python
 - [2015-python-intro](https://github.com/ngs-docs/2015-python-intro) - An Introduction to Python (2015).
