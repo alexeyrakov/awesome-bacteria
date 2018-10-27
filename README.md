@@ -50,6 +50,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [functional-genomics-workshop-orange](https://github.com/biolab/functional-genomics-workshop-orange) - Data Mining w/o Programming Workshop (2014).
 - [Data Analysis for the Life Sciences](https://github.com/genomicsclass/labs) - Data Analysis for the Life Sciences (2015): Biomedical Data Science, Introduction to Bioconductor: Annotation and analysis, High-performance computing for reproducible genomics with Bioconductor.
 - [microbial-informatics-2014](https://github.com/apetkau/microbial-informatics-2014) - Microbial Informatics 2014 Labs.
+- [In-depth-NGS-Data-Analysis-Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course) - In-depth NGS Data Analysis Course (2018).
 
 ### Shell
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices (2017).
