@@ -35,6 +35,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 
 ## Educational resources
 - [CSHL Programming for Biology 2016](http://programmingforbiology.org) - CSHL Programming for Biology course official site (2016).
+- [CSHL Programming for Biology](https://github.com/prog4biol/pfb2018) - CSHL Programming for Biology (2018), all lectures and scripts.
 - [CSHL Programming for Biology](https://github.com/srobb1/PFB2012) - CSHL Programming for Biology (2012), all lectures and scripts.
 - [CSHL NGS](https://github.com/hyphaltip/CSHL_NGSNGS) - DNA analysis for the CSHL Programming for Biology course (2012-2014).
 - [GEN220 2015](https://github.com/hyphaltip/GEN220_2015) - Computational Analysis of High Throughput Biological Data (2015).
@@ -66,6 +67,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [python-data-intro](https://github.com/OpenTechSchool/python-data-intro) - Introduction to Data Processing with Python (2015).
 - [BPBR16](https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers) - Bioinformatics using Python for Biomedical Researchers (2016).
 - [2017-python-programming](https://github.com/EEOB-BioData/2017-python-programming) - Programming with Python (2017).
+- [evop2018](https://github.com/prog4biol/evop2018) - Programming for Evolutionary Biology Python in 2 Days (2018).
 - [Py4Bio](https://github.com/Serulab/Py4Bio) - Public data for the book Python for Bioinformatics.
 
 ### R & RStudio
