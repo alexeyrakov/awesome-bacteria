@@ -35,13 +35,14 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [Data Carpentry](http://www.datacarpentry.org/)
 
 ## Educational resources
-- [CSHL Programming for Biology 2016](http://programmingforbiology.org) - CSHL Programming for Biology course official site (2016).
-- [CSHL Programming for Biology](https://github.com/prog4biol/pfb2018) - CSHL Programming for Biology (2018), all lectures and scripts.
+- [CSHL Programming for Biology 2019](http://programmingforbiology.org) - CSHL Programming for Biology course official site (2019).
+- [CSHL Programming for Biology](https://github.com/prog4biol/pfb2019) - CSHL Programming for Biology (2019), all lectures and scripts.
 - [CSHL Programming for Biology](https://github.com/srobb1/PFB2012) - CSHL Programming for Biology (2012), all lectures and scripts.
-- [CSHL NGS](https://github.com/hyphaltip/CSHL_NGSNGS) - DNA analysis for the CSHL Programming for Biology course (2012-2014).
+- [CSHL NGS](https://github.com/hyphaltip/CSHL_NGS) - DNA analysis for the CSHL Programming for Biology course (2012-2014).
+- [GEN220_2020](https://github.com/biodataprog/GEN220_2020) - GEN220: High Throughput Biological Data Analysis (2020).
 - [GEN220 2015](https://github.com/hyphaltip/GEN220_2015) - Computational Analysis of High Throughput Biological Data (2015).
-- [programming-intro](https://github.com/biodataprog/programming-intro) - Computational Analysis of High Throughput Biological Data (2017).
-- [BCB546X-Spring2017](https://github.com/EEOB-BioData/BCB546X-Spring2017) - Computational Skills for Biological Data (Spring 2017).
+- [programming-intro](https://github.com/biodataprog/2018_programming-intro) - Computational Analysis of High Throughput Biological Data (2018).
+- [BCB546X-Spring2022](https://github.com/EEOB-BioData/BCB546-Spring2022) - Computational Skills for Biological Data (Spring 2022).
 - [BCB546X-Fall2017](https://github.com/EEOB-BioData/BCB546X-Fall2017) - Computational Skills for Biological Data (Fall 2017).
 - [Introduction](https://github.com/BioinformaticsTraining/Introduction) - Talks and Materials for "An Introduction to Bioinformatics".
 - [Course-Programme](https://github.com/BacterialCommunitiesAndPopulation/Course-Programme) - Course in Working with bacterial communities and populations (2016).
@@ -77,6 +78,7 @@ Inspired by [awesome-microbes](https://github.com/stevetsa/awesome-microbes/blob
 - [r-intro](https://github.com/cambiotraining/r-intro) - Cambridge Basic R Course (2017).
 - [r-intermediate](https://github.com/bioinformatics-core-shared-training/r-intermediate) - Data Manipulation and Visualisation using R (Intermediate R Course).
 - [R-Data-Skills](https://github.com/EEOB-BioData/R-Data-Skills) - R for Reproducible Scientific Analysis (2016).
+- [R-genomics](https://github.com/hyphaltip/R-genomics) - Data Carpentry Data Analysis and Visualization in R (2017).
 - [webinars](https://github.com/rstudio/webinars) - Code and slides for RStudio webinars.
 
 ### Galaxy
